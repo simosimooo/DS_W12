@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="DS_W12/DS_W12.vcxproj" Id="b10b6436-1a51-41c7-bf5f-565b42f99b5a" />
+</Solution>
